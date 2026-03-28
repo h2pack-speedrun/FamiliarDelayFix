@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Familiars being summoned after a delay upon entering a room.",
     default  = true,
     dataMutation = true,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
